@@ -203,5 +203,4 @@ Star the repo if you find it useful!
 **Made for AppSec engineers, SecOps teams, platform security, and developers protecting applications at runtime.**  
 
 Let's expand open runtime detection options while recognizing the depth, accuracy, and response capabilities that leading commercial Application Detection & Response platforms deliver.
-# Awesome-Application-Detection-n-Response
 
