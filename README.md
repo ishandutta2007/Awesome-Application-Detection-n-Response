@@ -59,9 +59,9 @@ Below is a curated list of enterprise SaaS platforms offering Application Detect
 ## 🔓 Open-Source GitHub Projects
 
 Curated open-source projects providing runtime application self-protection (RASP), eBPF-based kernel/container runtime security, Web Application Firewalls (WAF), and tracing instrumentation.  
-*Sorted by GitHub Star Count (Descending).*
+*Sorted by GitHub Stars_Count (Descending).*
 
-| Project 🌟 | Description 💡 | GitHub Stars Badge 🏷️ | Category 🗂️ |
+| Project 🌟 | Description 💡 | GitHub_Stars_Badge 🏷️ | Category 🗂️ |
 | :--- | :--- | :--- | :--- |
 | **[OWASP ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)** 🛡️ | Open-source, cross-platform Web Application Firewall (WAF) engine providing HTTP traffic inspection and blocking. | [![Stars](https://img.shields.io/github/stars/owasp-modsecurity/ModSecurity?style=social&color=white)](https://github.com/owasp-modsecurity/ModSecurity/stargazers) | WAF / Traffic Security |
 | **[Falco](https://github.com/falcosecurity/falco)** 🦅 | CNCF cloud-native runtime security tool leveraging eBPF to detect anomalous system and application activity. | [![Stars](https://img.shields.io/github/stars/falcosecurity/falco?style=social&color=white)](https://github.com/falcosecurity/falco/stargazers) | eBPF Runtime Security |
@@ -110,7 +110,7 @@ Thank you for visiting and supporting this project! If you find this curated lis
 
 - This repository is a **community-curated** list intended for educational and research purposes.
 - Runtime security agents operate within production application processes. Ensure thorough testing in non-production environments before deploying sensors or enforcement rules.
-- Market valuations, pricing estimates, and star counts are updated periodically as of September 2026.
+- Market valuations, pricing estimates, and Stars_Counts are updated periodically as of September 2026.
 
 ---
 
